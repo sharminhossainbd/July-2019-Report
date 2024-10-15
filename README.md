@@ -10,10 +10,13 @@
 # Report Description
 The July Report repository presents an in-depth analysis of key business performance metrics for July. This report focuses on extracting actionable insights from various business functions, including traffic and conversion analysis, customer retention, marketing channel effectiveness, corporate order contributions, product sourcing, and operational efficiency.
 
-The report aims to provide stakeholders with a clear understanding of how different business areas performed in July, highlighting areas of improvement and success. By analyzing trends in customer behaviour, marketing ROI, and operational KPIs, the report helps to optimize strategies for customer acquisition, retention, and overall profitability. It was presented at a management conference of one of my previous workplaces, and to ensure confidentiality, all data used here is fictional.
+The report aims to provide stakeholders with a clear understanding of how different business areas performed in July, highlighting areas of improvement and success. By analyzing trends in customer behaviour, marketing ROI, and operational KPIs, the report helps to optimize strategies for customer acquisition, retention, and overall profitability. 
 
 # Tools Used
 SQL, Microsoft Excel, Microsoft PowerPoint.
+
+# Data Collection
+The data used in this report is based on real scenarios from my previous company. However, the figures have been modified to maintain confidentiality.
 
 # Key takeaways include:
 
