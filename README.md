@@ -1,6 +1,6 @@
 # Management Conference Report For July 2019
 
-[View July Report]([/July Report.pdf](https://github.com/sharminhossainbd/July-2019-Report/blob/main/July%20Report.pdf))
+[View July Report](https://github.com/sharminhossainbd/July-2019-Report/blob/1bb6b164924a8c6f8e1ce06e77cd3bee05a7f847/July%20Report.pdf)
 
 # Report Description
 The July Report repository presents an in-depth analysis of key business performance metrics for July. This report focuses on extracting actionable insights from various business functions, including traffic and conversion analysis, customer retention, marketing channel effectiveness, corporate order contributions, product sourcing, and operational efficiency.
