@@ -1,6 +1,6 @@
 # Management Conference Report For July 2019
 
-<img src="Picture 1.png">
+<img src="Picture1.png">
 [View July Report](https://github.com/sharminhossainbd/July-2019-Report/blob/1bb6b164924a8c6f8e1ce06e77cd3bee05a7f847/July%20Report.pdf)
 
 # Report Description
