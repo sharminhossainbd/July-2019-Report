@@ -2,7 +2,7 @@
 
 <img src="Picture1.png">
 
-[View July Report](https://sharminhossainbd.github.io/July_Report/July%20Report.pdf)
+## [See Detailed Report Here](https://sharminhossainbd.github.io/July_Report/July%20Report.pdf)
 
 
 
